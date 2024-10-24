@@ -10,11 +10,7 @@
 1. 将相同Stock的数目进行相加
 2. 对其按照从大到小进行排序，输出格式为<排名>：<股票代码>，<次数>
 
-WEB：
 
-![image-20241023201019907](C:\Users\Annian\AppData\Roaming\Typora\typora-user-images\image-20241023201019907.png)
-
-![image-20241024121108429](C:\Users\Annian\AppData\Roaming\Typora\typora-user-images\image-20241024121108429.png)
 
 
 
@@ -39,17 +35,9 @@ WEB：
 
 
 
-wordcount：
-
-![image-20241023194725942](C:\Users\Annian\AppData\Roaming\Typora\typora-user-images\image-20241023194725942.png)
-
-运行wordcount：
-
-![image-20241023200949347](C:\Users\Annian\AppData\Roaming\Typora\typora-user-images\image-20241023200949347.png)
-
-
-
 代码和输出结果请详见其他文件
+
+运行截图详见picture目录
 
 
 
